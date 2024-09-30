@@ -56,4 +56,4 @@ else if (age > 65) {
 
 
 //quarta fase : mostrare output in console
-console.log(message, price);
+
